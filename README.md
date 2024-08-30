@@ -1,2 +1,2 @@
 # pracReact
-My Own practice projects.
+My own practice projects.
